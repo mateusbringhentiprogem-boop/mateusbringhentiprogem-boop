@@ -11,7 +11,7 @@
   <br />
   <p> 😃 My name is Mateus Bringhenti </p>
   <br />
-  <p> 👨‍💻 I'm Awis Software Team </p>p
+  <p> 👨‍💻 I'm Awis Software Team </p>
   <br />
 
 <br>
