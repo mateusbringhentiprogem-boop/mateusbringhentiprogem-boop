@@ -22,7 +22,7 @@
 
 <a href="https://github.com/mateusbringhentiprogem-boop">
 <img
-  src="https://github-readme-stats-9nn8a2ie4-progem.vercel.app/api?username=mateusbringhentiprogem-boop&t=1"
+  src="https://github-stats-extended.vercel.app/api?username=mateusbringhentiprogem-boop&theme=radical"
 />
 </a>
 
